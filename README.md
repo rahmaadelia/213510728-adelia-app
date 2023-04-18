@@ -30,5 +30,5 @@ npm run build
 
 ### 
 ### Show how
-Show of web application todo list 
+Web application todo list 
 http://213510728-adelia.great-site.net/
